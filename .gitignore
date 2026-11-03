@@ -1,0 +1,20 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dSYM/
+build/
+bin/
+main
+admission-system
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
